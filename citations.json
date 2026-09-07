@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://nats.education.gov.in/about-us.php",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 2,
+      "url": "https://nsdcindia.org/sites/all/themes/ibees/pdf/apprenticeship-faqs.pdf",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 3,
+      "url": "https://itiemp.karnataka.gov.in/37/apprenticeship-training-providing-industries/en",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 4,
+      "url": "https://cmti.res.in/apprenticeships",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 5,
+      "url": "https://cmti.res.in/short-term-training-programs",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 6,
+      "url": "https://cmti.res.in/announcement/training-calendar-for-the-fy-2026-2027",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 7,
+      "url": "https://heavyindustries.gov.in/en/cmti",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 8,
+      "url": "https://www.skillindiadigital.gov.in/training-centres",
+      "title": "",
+      "accessed": "2026-09-07"
+    },
+    {
+      "id": 9,
+      "url": "https://www.apprenticeshipindia.gov.in",
+      "title": "",
+      "accessed": "2026-09-07"
+    }
+  ]
+}
